@@ -81,6 +81,26 @@ div.inner2 {
 	background-color: #F22283;
 }
 
+div.inner3 {
+	margin: 7%;
+	padding: 7%;
+	border: 0;
+	font-size: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #F22283;
+}
+
+div.inner4 {
+	margin: 1%;
+	padding: 1%;
+	border-radius: 20em;
+	font-size: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #F22283;
+}
+
 a.lia{
 	margin: 0;
 	padding: 0;
@@ -292,6 +312,37 @@ a.lia{
 					right: 0;
 					width: 100%;
 				}
+
+				h2.major2 {
+					margin: 0 0 1.3em 0;
+					align-items: center;
+					justify-content: center;
+					display: flex;
+					position: relative;
+					font-size: 1.75em;
+					text-align: center;
+					padding-bottom: 0.35em;
+					color: #ffffff;
+					
+				}
+		
+					h2.major2:after {
+						background-image: -moz-linear-gradient(to right, #eeb7d7, #ffffff);
+						background-image: -webkit-linear-gradient(to right, #e7088a, #030002);
+						background-image: -ms-linear-gradient(to right, #f6a2d3, #b74e91);
+						background-image: linear-gradient(to right, #c88dda, #ffffff);
+						-moz-transition: max-width 0.2s ease;
+						-webkit-transition: max-width 0.2s ease;
+						-ms-transition: max-width 0.2s ease;
+						transition: max-width 0.2s ease;
+						border-radius: 0.2em;
+						bottom: 0;
+						content: '';
+						height: 0.05em;
+						position: absolute;
+						right: 0;
+						width: 100%;
+					}
 
 	h2 {
 		font-size: 1.75em;
@@ -3597,10 +3648,19 @@ a.lia{
 
 /* Footer */
 
-	#sidebar + #wrapper + #footer {
-		margin-left: 18em;
-		
+	li.leftli {
+		position: static;
+		text-align: right;
 	}
+
+	.foot { display: inline-block; line-height: 70px; vertical-align: top }
+
+	.imgfoot { display: inline-block; text-align: right;   }
+
+		#sidebar + #wrapper + #footer {
+			margin-left: 18em;
+			
+		}
 
 		@media screen and (max-width: 1280px) {
 
