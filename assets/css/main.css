@@ -71,6 +71,26 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+div.inner2 {
+	margin: 15%;
+	padding: 15%;
+	border: 0;
+	font-size: 100%;
+	margin-top: 5%;
+	background-color: #F22283;
+}
+
+a.lia{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	color: #ffffff;
+	vertical-align: baseline;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -98,7 +118,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #be0997;
+		background: #ffffff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -214,6 +234,8 @@ input, select, textarea {
 		font-size: 2.75em;
 	}
 
+
+
 		h1.major {
 			margin: 0 0 1.3em 0;
 			align-items: center;
@@ -221,6 +243,7 @@ input, select, textarea {
 			display: flex;
 			position: relative;
 			padding-bottom: 0.35em;
+			color: #000000;
 		}
 
 			h1.major:after {
@@ -240,6 +263,35 @@ input, select, textarea {
 				right: 0;
 				width: 100%;
 			}
+
+
+			h1.major2 {
+				margin: 0 0 1.3em 0;
+				align-items: center;
+				justify-content: center;
+				display: flex;
+				position: relative;
+				padding-bottom: 0.35em;
+				color: #ffffff;
+			}
+	
+				h1.major2:after {
+					background-image: -moz-linear-gradient(to right, #eeb7d7, #ffffff);
+					background-image: -webkit-linear-gradient(to right, #e7088a, #030002);
+					background-image: -ms-linear-gradient(to right, #f6a2d3, #b74e91);
+					background-image: linear-gradient(to right, #c88dda, #ffffff);
+					-moz-transition: max-width 0.2s ease;
+					-webkit-transition: max-width 0.2s ease;
+					-ms-transition: max-width 0.2s ease;
+					transition: max-width 0.2s ease;
+					border-radius: 0.2em;
+					bottom: 0;
+					content: '';
+					height: 0.05em;
+					position: absolute;
+					right: 0;
+					width: 100%;
+				}
 
 	h2 {
 		font-size: 1.75em;
@@ -3422,7 +3474,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #F22283;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3434,6 +3486,8 @@ input, select, textarea {
 			font-size: 1.25em;
 			font-weight: bold;
 		}
+
+	
 
 		#header > nav {
 			-moz-flex: 1;
@@ -3545,18 +3599,21 @@ input, select, textarea {
 
 	#sidebar + #wrapper + #footer {
 		margin-left: 18em;
+		
 	}
 
 		@media screen and (max-width: 1280px) {
 
 			#sidebar + #wrapper + #footer {
 				margin-left: 0;
+				
 			}
 
 		}
 
 	#footer > .inner a {
 		border-bottom-color: #e07cbf;
+		
 	}
 
 		#footer > .inner a:hover {
@@ -3569,7 +3626,8 @@ input, select, textarea {
 	}
 
 	#header + #wrapper + #footer > .inner {
-		margin: 0 auto;
+		margin: 0 2%;
+		background-color: #F22283;
 	}
 
 /* Sidebar */
