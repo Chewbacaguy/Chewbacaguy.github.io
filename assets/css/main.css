@@ -3395,8 +3395,12 @@ a.lia{
 		}
 
 		.wrapper.style1 {
+			
 			background-color: #F22283;
+			
 		}
+
+		
 
 		.wrapper.style1-alt {
 			background-color: #d40e6a;
@@ -3432,6 +3436,7 @@ a.lia{
 			-ms-justify-content: center;
 			justify-content: center;
 			min-height: 100vh;
+			
 		}
 
 			body.is-ie .wrapper.fullscreen {
@@ -4044,7 +4049,6 @@ a.lia{
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
