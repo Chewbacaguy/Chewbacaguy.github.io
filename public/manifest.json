@@ -1,0 +1,17 @@
+{
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Santiago Torres",
+  "short_name": "Santi Torres",
+  "description": "Santiago Torres Website",
+  "icons": [
+    {
+      "src": "/coffee-icon128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
