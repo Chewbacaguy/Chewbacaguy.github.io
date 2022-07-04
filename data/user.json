@@ -1,7 +1,7 @@
 {
   "name": "Santiago Torres",
   "status": "Front-End Web Developer ... & FPV Pilot ",
-  "description": "Mexican front-end developer | 6th semester student @ Tec de Monterrey ",
+  "description": "Mexican front-end developer | 7th semester student @ Tec de Monterrey ",
   "navigations": [
     {
       "id": 1,
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "name": "Progressive Web Apps",
-      "description": "Develop a Progressive web apps, create website and website with native apps experience.s",
+      "description": "Develop a Progressive web apps, create website and website with native apps experiences.",
       "icon": "/services/service-pwa.svg"
     }
   ],
@@ -163,7 +163,7 @@
       {
         "id": 1,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fcookingbox.png?alt=media",
+        "image": "/../public/imgs/marcopng.png",
         "name": "Marco App #MuseoDeTodos",
         "stack": "SwiftUI, Vue, MongoDB",
         "category": "Personal Project",
@@ -172,7 +172,7 @@
       {
         "id": 2,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fnetflix-clone.png?alt=media",
+        "image": "/../public/imgs/zancopng.png",
         "name": "Zanco Web Page",
         "stack": "JS, CSS, HTML",
         "category": "Personal Project",
@@ -181,11 +181,11 @@
       {
         "id": 3,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fwhatsapp-clone.png?alt=media",
+        "image": "/../public/imgs/wizelinkpng.png",
         "name": "WizeLink",
         "stack": "NextJS, TailwindCSS, PostgresSQL, Prisma",
         "category": "Personal Project",
-        "url": "https://www.wizeline.com/"
+        "url": "http://100.26.46.163/"
       }
     ]
   },
