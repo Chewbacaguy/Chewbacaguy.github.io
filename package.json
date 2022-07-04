@@ -13,7 +13,6 @@
     "@sideway/address": "^5.0.0",
     "@sideway/formula": "^3.0.0",
     "@sideway/pinpoint": "^2.0.0",
-    "firebase": "^8.7.1",
     "joi": "^17.6.0",
     "next": "^11.0.0",
     "next-pwa": "^5.2.21",
