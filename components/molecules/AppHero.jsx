@@ -6,7 +6,7 @@ import AppButton from '../atomics/AppButton';
 const AppHero = () => (
   <header className="bg-hero-pattern bg-no-repeat bg-center px-3">
     <AppContainer>
-      <Fade duration={2000}>
+      {/* <Fade duration={2000}> */}
         <div className="h-screen flex flex-col justify-center pt-16 items-center text-center lg:items-start lg:text-left">
           <span className="text-xs md:text-sm text-black flex items-center">
             <span>Hi, I&apos;m</span>
@@ -23,7 +23,7 @@ const AppHero = () => (
           </p>
           <AppButton title="GET IN TOUCH" href="/contact" />
         </div>
-      </Fade>
+      {/* </Fade> */}
     </AppContainer>
   </header>
 );
