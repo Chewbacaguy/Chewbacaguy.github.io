@@ -1,50 +1,18 @@
 {
   "name": "Santiago Torres",
-  "status": "Front-End Web Developer ... & FPV Pilot ",
+  "status": "Front-End Web Developer & FPV Pilot",
   "description": "Mexican front-end developer | Computer Software Engineer. Grad 2023 Tec de Monterrey",
   "navigations": [
     {
       "id": 1,
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "id": 2,
-      "name": "Resume",
-      "url": "/resume"
-    },
-    {
-      "id": 3,
-      "name": "Projects",
-      "url": "/projects"
-    },
-    {
-      "id": 4,
-      "name": "Articles",
-      "url": ""
-    },
-    {
-      "id": 5,
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "id": 6,
-      "name": "Contact",
-      "url": "/contact"
-    }
-  ],
-  "services": [
-    {
-      "id": 1,
       "name": "UI/UX design",
-      "description": "My creativity allows me to develop an excellent user interface and experience following color harmony and item symmetry. ",
+      "description": "My creativity allows me to develop an excellent user interface and experience following color harmony and item symmetry.",
       "icon": "/services/service-uiux.svg"
     },
     {
       "id": 2,
       "name": "Website dev",
-      "description": "Full stack development of any website by procedurally understanding the client's necessities and proposing adequate architecture and design solutions. ",
+      "description": "Full stack development of any website by procedurally understanding the client's necessities and proposing adequate architecture and design solutions.",
       "icon": "/services/service-website.svg"
     },
     {
@@ -56,7 +24,7 @@
     {
       "id": 4,
       "name": "Responsive design",
-      "description": "Design and code presentable solutions for any device, including phones, tablets, and pcs, through impeccable media-queries. ",
+      "description": "Design and code presentable solutions for any device, including phones, tablets, and PCs, through impeccable media-queries.",
       "icon": "/services/service-rwd.svg"
     },
     {
@@ -72,193 +40,6 @@
       "icon": "/services/service-pwa.svg"
     }
   ],
-  "skills": [
-    {
-      "id": 1,
-      "name": "HTML 5",
-      "icon": "/skills/skill-html5.svg"
-    },
-    {
-      "id": 2,
-      "name": "CSS 3",
-      "icon": "/skills/skill-css3.svg"
-    },
-    {
-      "id": 3,
-      "name": "Javascript",
-      "icon": "/skills/skill-javascript.svg"
-    },
-    {
-      "id": 4,
-      "name": "TailwindCss",
-      "icon": "/skills/skill-tailwindcss.svg"
-    },
-    {
-      "id": 5,
-      "name": "Bootstrap",
-      "icon": "/skills/skill-bootstrap.svg"
-    },
-
-    {
-      "id": 6,
-      "name": "React JS",
-      "icon": "/skills/skill-reactjs.svg"
-    },
-    {
-      "id": 7,
-      "name": "Next JS",
-      "icon": "/skills/skill-nextjs.svg"
-    },
-    {
-      "id": 8,
-      "name": "Firebase",
-      "icon": "/skills/skill-firebase.svg"
-    },
-    {
-      "id": 9,
-      "name": "Git",
-      "icon": "/skills/skill-git.svg"
-    },
-    {
-      "id": 10,
-      "name": "Github",
-      "icon": "/skills/skill-github.svg"
-    },
-    {
-      "id": 11,
-      "name": "Prisma",
-      "icon": "/skills/skill-prisma.svg"
-    },
-    {
-      "id": 12,
-      "name": "MongoDb",
-      "icon": "/skills/skill-mongodb.svg"
-    },
-    {
-      "id": 13,
-      "name": "C++",
-      "icon": "/skills/skill-c++.svg"
-    },
-    {
-      "id": 14,
-      "name": "Python",
-      "icon": "/skills/skill-python.svg"
-    },
-    {
-      "id": 15,
-      "name": "MySQL",
-      "icon": "/skills/skill-sql.svg"
-    },
-    {
-      "id": 15,
-      "name": "NodeJS",
-      "icon": "/skills/skill-node.svg"
-    }
-    
-  ],
-  "project": {
-    "title": "Project",
-    "desctiption": "These are a few of the projects I have worked on through the past few years. ",
-    "contents": [
-      {
-        "id": 1,
-        "top": true,
-        "image": "/../public/imgs/marcopng.png",
-        "name": "Marco App #MuseoDeTodos",
-        "stack": "SwiftUI, Vue, MongoDB",
-        "category": "Personal Project",
-        "url": "https://www.marco.org.mx/"
-      },
-      {
-        "id": 2,
-        "top": true,
-        "image": "/../public/imgs/zancopng.png",
-        "name": "Zanco Web Page",
-        "stack": "JS, CSS, HTML",
-        "category": "Personal Project",
-        "url": "https://zanco.com.mx/"
-      },
-      {
-        "id": 3,
-        "top": true,
-        "image": "/../public/imgs/wizelinkpng.png",
-        "name": "WizeLink",
-        "stack": "NextJS, TailwindCSS, PostgresSQL, Prisma",
-        "category": "Personal Project",
-        "url": "http://100.26.46.163/"
-      }
-    ]
-  },
-  "contact": {
-    "title": "Contact",
-    "description": "You are more than welcome to connect with me through any social medium. Maybe we can develop something awesome together!",
-    "contents": [
-      {
-        "id": 1,
-        "icon": "fab fa-whatsapp",
-        "name": "WhatsApp",
-        "username": "+52 8124004678",
-        "category": "Social Media",
-        "url": "https://wa.me/+528124004678"
-      },
-      {
-        "id": 2,
-        "icon": "fab fa-instagram",
-        "name": "Instagram",
-        "username": "@santorres",
-        "category": "Social Media",
-        "url": "https://instagram.com/santorres"
-      },
-      {
-        "id": 3,
-        "icon": "fab fa-twitter",
-        "name": "Twitter",
-        "username": "@imHodag",
-        "category": "Social Media",
-        "url": "https://twitter.com/imHodag"
-      },
-      {
-        "id": 4,
-        "icon": "fab fa-facebook-f",
-        "name": "Facebook",
-        "username": "Santiago Torres",
-        "category": "Social Media",
-        "url": "https://www.facebook.com/santiago.torresalvarez"
-      },
-      {
-        "id": 5,
-        "icon": "fab fa-linkedin-in",
-        "name": "Linkedin",
-        "username": "Santiago Torres Alvarez",
-        "category": "Social Media",
-        "url": "https://www.linkedin.com/in/santiago-torres-alvarez-2b3730174"
-      },
-      {
-        "id": 6,
-        "icon": "fab fa-github",
-        "name": "Github",
-        "username": "chewbacaguy",
-        "category": "Social Media",
-        "url": "https://github.com/chewbacaguy"
-      },
-      {
-        "id": 7,
-        "icon": "far fa-envelope",
-        "name": "Gmail",
-        "username": "santiagot2000@gmail.com",
-        "category": "Email",
-        "url": "mailto:santiagot2000@gmail.com"
-      },
-      {
-        "id": 8,
-        "icon": "far fa-compass",
-        "name": "Location",
-        "username": "Monterrey, Nuevo Leon",
-        "category": "location",
-        "url": "https://www.google.com/maps/place/Monterrey,+Nuevo+Leon/@25.6487278,-100.4435247,11z/data=!3m1!4b1!4m5!3m4!1s0x86629531b437f8f5:0xa3d3d3ca6ac89894!8m2!3d25.6866142!4d-100.3161126"
-      }
-    ]
-  },
   "about": {
     "title": "About",
     "description": "Get to know a bit more about my life, my goals, and dreams",
@@ -271,17 +52,17 @@
       {
         "id": 2,
         "name": "My focus",
-        "description": "My main focus is to get good at UI/UX design along with CSS tools to create and achieve the best user experiences in my products, I want to have developments that provide value, and look and feel professional.  "
+        "description": "My main focus is to get good at UI/UX design along with CSS tools to create and achieve the best user experiences in my products, I want to have developments that provide value, and look and feel professional."
       },
       {
         "id": 3,
         "name": "Hobbies",
-        "description": "My hobbies can be divided into 3 categories: 1. FPV Drone Flying. 2. Coding/Documenting/Researching/Learning and 3.Sport Climbing/Running/Basketball and stretching. Apart from that I love travel, meet new people, and spend quality time with my lifelong friends."
+        "description": "My hobbies can be divided into 3 categories: 1. FPV Drone Flying. 2. Coding/Documenting/Researching/Learning and 3. Sport Climbing/Running/Basketball and stretching. Apart from that I love to travel, meet new people, and spend quality time with my lifelong friends."
       },
       {
         "id": 4,
         "name": "Hopes and dreams",
-        "description": "I've always pushed myself to become the best at what I do. Hopefully one day I can freely do those things that enjoy the most: eat, travel, exercise, and fly. I hope to do all of this stress-free but always looking forward for a new challenge."
+        "description": "I've always pushed myself to become the best at what I do. Hopefully one day I can freely do those things that I enjoy the most: eat, travel, exercise, and fly. I hope to do all of this stress-free but always looking forward to a new challenge."
       }
     ]
   },
@@ -292,81 +73,64 @@
       {
         "id": 1,
         "title": "Work Experience",
-        {
-      "contents": [
-        {
-          "id": 1,
-          "timestamp": "Oct 2019 - Mar 2020",
-          "name": "Software Engineer & Data Analyst Intern",
-          "info": "SGG Consulting",
-          "description": "Managed and created systems to record assistance and increase productivity within the business using Excel. Reports helped increment the on-time delivery process from 80% to the year's objective 96% by isolating and analyzing individual departments and their working procedures. Worked remotely under pressure with multiple daily, weekly and monthly reports. Responsible for individual KPI analysis and followup of over 700 American employees.",
-          "url": "#"
-        },
-        {
-          "id": 3,
-          "timestamp": "January 2021 - August 2023",
-          "name": "Co-Founder and COO",
-          "info": "Zanco Online",
-          "description": "Full stack development of ScaaS (Supply Chain as a Service) platform zanco.com.mx NextJS, Zoho Creator and Zoho Books, API integrations, GitHub, Node.js, Mobile compatibility Android and iOS. Full development of a Notion System with the implementation of Notion's API. Helped to improve business operations performance by over 200%. Helped over 200 families in 3 months within my local area to disinfect their homes from Covid-19. Daily operation management of small teams driving the company's services.",
-          "url": "https://zanco.com.mx"
-        },
-        {
-          "id": 2,
-          "timestamp": "September 2020 - January 2024",
-          "name": "Software Engineer Intern",
-          "info": "Be One Sports and Education",
-          "description": "Created a CRM using platforms such as Excel, Zoho CRM and Zoho Books that has had a huge impact in the automatization and optimization of the company's data and financial administration. Used SCRUM methodology to work at a fast and effective pace. Completed my milestones before due dates to run tests and deal with the company's transition and foster doubts and further system personalization. The system reduced working administrative hours from 20 hrs a week to 7 hours a week. Lead workshops to over 50 scouts in order to help increase the company's data health and increase individual scouting performance. I was then recognized for implementing detailed analytics that helped directives consult their data 20x more efficiently. Trained as a sales Scout for the company and have gained over 100 leads for their operation, increasing company’s revenue by 8% in only 2 months.",
-          "url": "https://beonesportsandeducation.com/"
-        },
-        {
-          "id": 2,
-          "timestamp": "August 2022 - December 2022",
-          "name": "Software Engineer Intern",
-          "info": "Ureblock",
-          "description": "Developed invoice reconciliation system for JDE (Oracle ERP) vs SAT (Mexican federal government revenue service) using React.js, AzureDB, API integration, MSSM (SQL). Provided IT support and troubleshooting for the development team.",
-          "url": "http://www.ureblock.com.mx/empresa.html"
-        },
-        {
-          "id": 1,
-          "timestamp": "August 2023 - June 2024",
-          "name": "Lead Designer & Project Manager",
-          "info": "Lyrica - Apple Developer Academy",
-          "description": "Led the project as PM and Lead Designer, utilizing Figma and prototyping tools. Developed an app to assist songwriters in inspiration and repertoire organization using SwiftUI / UIKit, MVVM pattern. Integrated OpenAI API, Firebase, and Apple/Google authentication. Deployed on TestFlight with over 500 users in the first month.",
-          "url": "https://lyrica-brown.vercel.app/"
-        }
-      ]
-    },
+        "contents": [
+          {
+            "id": 1,
+            "timestamp": "Oct 2019 - Mar 2020",
+            "name": "Software Engineer & Data Analyst Intern",
+            "info": "SGG Consulting",
+            "description": "Managed and created systems to record assistance and increase productivity within the business using Excel. Reports helped increment the on-time delivery process from 80% to the year's objective 96% by isolating and analyzing individual departments and their working procedures. Worked remotely under pressure with multiple daily, weekly and monthly reports. Responsible for individual KPI analysis and follow-up of over 700 American employees.",
+            "url": "#"
+          },
+          {
+            "id": 3,
+            "timestamp": "January 2021 - August 2023",
+            "name": "Co-Founder and COO",
+            "info": "Zanco Online",
+            "description": "Full stack development of ScaaS (Supply Chain as a Service) platform zanco.com.mx NextJS, Zoho Creator and Zoho Books, API integrations, GitHub, Node.js, Mobile compatibility Android and iOS. Full development of a Notion System with the implementation of Notion's API. Helped to improve business operations performance by over 200%. Helped over 200 families in 3 months within my local area to disinfect their homes from Covid-19. Daily operation management of small teams driving the company's services.",
+            "url": "https://zanco.com.mx"
+          },
+          {
+            "id": 2,
+            "timestamp": "September 2020 - January 2024",
+            "name": "Software Engineer Intern",
+            "info": "Be One Sports and Education",
+            "description": "Created a CRM using platforms such as Excel, Zoho CRM and Zoho Books that has had a huge impact in the automatization and optimization of the company's data and financial administration. Used SCRUM methodology to work at a fast and effective pace. Completed my milestones before due dates to run tests and deal with the company's transition and foster doubts and further system personalization. The system reduced working administrative hours from 20 hrs a week to 7 hours a week. Lead workshops to over 50 scouts in order to help increase the company's data health and increase individual scouting performance. I was then recognized for implementing detailed analytics that helped directives consult their data 20x more efficiently. Trained as a sales Scout for the company and have gained over 100 leads for their operation, increasing company’s revenue by 8% in only 2 months.",
+            "url": "https://beonesportsandeducation.com/"
+          },
+          {
+            "id": 2,
+            "timestamp": "August 2022 - December 2022",
+            "name": "Software Engineer Intern",
+            "info": "Ureblock",
+            "description": "Developed invoice reconciliation system for JDE (Oracle ERP) vs SAT (Mexican federal government revenue service) using React.js, AzureDB, API integration, MSSM (SQL). Provided IT support and troubleshooting for the development team.",
+            "url": "http://www.ureblock.com.mx/empresa.html"
+          },
+          {
+            "id": 1,
+            "timestamp": "August 2023 - June 2024",
+            "name": "Lead Designer & Project Manager",
+            "info": "Lyrica - Apple Developer Academy",
+            "description": "Led the project as PM and Lead Designer, utilizing Figma and prototyping tools. Developed an app to assist songwriters in inspiration and repertoire organization using SwiftUI / UIKit, MVVM pattern. Integrated OpenAI API, Firebase, and Apple/Google authentication. Deployed on TestFlight with over 500 users in the first month.",
+            "url": "https://lyrica-brown.vercel.app/"
+          }
+        ]
+      },
       {
         "id": 2,
         "title": "Completed Courses",
         "contents": [
           {
-            "id": 5,
-            "timestamp": "June 2019",
-            "name": "Neural Networks and Deep Learning",
-            "info": "Coursera",
-            "description": "w/ Stanford's Professor Andrew Ng",
-            "url": "https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=B2C&campaignid=904733485&adgroupid=46370300620&device=c&keyword=coursera%20deep%20learning%20ai&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=415429098219&hide_mobile_promo&gclid=Cj0KCQjwpcOTBhCZARIsAEAYLuWLYdrv-8Md449NwaPSLvs6gzDpeyBQiRZ39S4HFxPHgCLwdfOFlcEaAvmgEALw_wcB/"
+            "id": 1,
+            "timestamp": "2023 - 2024",
+            "name": "Apple Developer Academy, Naples Italy",
+            "info": "iOS Mobile Developer and Designer",
+            "description": "Focused on Swift Data, accessibility & storytelling to enhance an app experience and presentation. Developed over 3 apps on Test Flight",
+            "url": "https://www.developeracademy.unina.it/en/about/"
           },
           {
-            "id": 4,
-            "timestamp": "February 2020",
-            "name": "The Science of Well Being",
-            "info": "Coursera",
-            "description": "w/ Yale’s Professor Lauri Santos",
-            "url": "https://www.coursera.org/learn/the-science-of-well-being"
-          }, 
-          {
-            "id": 3,
-            "timestamp": "January 2021",
-            "name": "Data Structures and Algorithms",
-            "info": "Coursera",
-            "description": "w/Neil Rhodes",
-            "url": "https://www.coursera.org/specializations/data-structures-algorithms?"
-          },
-          {
-            "id": 4,
-            "timestamp": "April 2024",
+            "id": 2,
+            "timestamp": "2024",
             "name": "Apple Search Ads Certificate",
             "info": "Apple",
             "description": "w/Apple",
@@ -378,18 +142,8 @@
         "id": 3,
         "title": "Educational Level",
         "contents": [
-
           {
             "id": 1,
-            "timestamp": "2023 - 2024",
-            "name": "Apple Developer Academy, Naples Italy",
-            "info": "iOS Mobile Developer and Designer",
-            "description": "Focused on Swift Data, accessibility & storytelling to enhance an app experience and presentation. Developed over 3 apps on Test Flight",
-            "url": "https://www.developeracademy.unina.it/en/about/"
-          },
-          
-          {
-            "id": 2,
             "timestamp": "2019 - 2023",
             "name": "Tecnologico de Monterrey, Campus Monterrey",
             "info": "College",
@@ -397,24 +151,46 @@
             "url": "https://tec.mx/en/computer-science-and-information-technologies/bs-in-computer-science-and-technology"
           },
           {
-            "id": 3,
+            "id": 2,
             "timestamp": "2016-2019",
             "name": "Tec de Monterrey, Highschool CVA",
             "info": "Private High School",
-            "description": "Graduated as best of my class, an honors student in the IB program, 4.0 GPA, student body president, Co-Founder of multiple high-impact social service groups aiming to maximize self-growth and encouragement in rural communities. Leadership medal awarded to only 5% of campus students within the leadership program. ",
-            "url": "https://tec.mx/en/discoverprepatec"
-          },
-          {
-            "id": 4,
-            "timestamp": "2018",
-            "name": "VGC International College",
-            "info": "Business management exchange course in Vancouver, Canada",
-            "description": "VGC is an international college located in the heart of downtown Vancouver, Canada. VGC offers English courses and International Business programs.",
-            "url": "https://vgc.ca/"
+            "description": "Graduated as best of my class, an honors student in the IB program, 4.0 GPA, student body president, Co-Founder of multiple high-impact social service groups aiming to maximize self-growth and encouragement in rural communities. Leadership medal awarded to only 5% of campus students within the leadership Program.",
+            "url": "https://www.tecvirtual.mx/cva/"
           }
-         
         ]
       }
     ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Don't hesitate to reach out for freelance opportunities, collaborations, or just to say hi!",
+    "contents": [
+      {
+        "id": 1,
+        "name": "Email",
+        "icon": "mail",
+        "url": "mailto:santi.torr@me.com"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/santiago-torres-996134100/"
+      },
+      {
+        "id": 3,
+        "name": "Github",
+        "icon": "github",
+        "url": "https://github.com/santitorr"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 Santiago Torres. All rights reserved.",
+    "privacy_policy": {
+      "name": "Privacy Policy",
+      "url": "#"
+    }
   }
 }
