@@ -1,7 +1,7 @@
 {
   "name": "Santiago Torres",
   "status": "Front-End Web Developer ... & FPV Pilot ",
-  "description": "Mexican front-end developer | 7th semester student @ Tec de Monterrey ",
+  "description": "Mexican front-end developer | Computer Software Engineer. Grad 2023 Tec de Monterrey",
   "navigations": [
     {
       "id": 1,
@@ -38,37 +38,37 @@
     {
       "id": 1,
       "name": "UI/UX design",
-      "description": "My creativity allows me to develop an excelente user interface and experience following color harmony and item simetry. ",
+      "description": "My creativity allows me to develop an excellent user interface and experience following color harmony and item symmetry. ",
       "icon": "/services/service-uiux.svg"
     },
     {
       "id": 2,
       "name": "Website dev",
-      "description": "Full stack development of any website by procedually understanding the client's necesities and proposing adequet arquitecture and design solutions. ",
+      "description": "Full stack development of any website by procedurally understanding the client's necessities and proposing adequate architecture and design solutions. ",
       "icon": "/services/service-website.svg"
     },
     {
       "id": 3,
       "name": "WebApps dev",
-      "description": "I can develope outstanding web-apps with multiple functional features and scalable capabilities.",
+      "description": "I can develop outstanding web-apps with multiple functional features and scalable capabilities.",
       "icon": "/services/service-webapps.svg"
     },
     {
       "id": 4,
       "name": "Responsive design",
-      "description": "Design and code presentable solutions for any device, including phones, tablets and pcs, through impecable media-queries. ",
+      "description": "Design and code presentable solutions for any device, including phones, tablets, and pcs, through impeccable media-queries. ",
       "icon": "/services/service-rwd.svg"
     },
     {
       "id": 5,
       "name": "Best Performance",
-      "description": "Design and develop a well structured arquitecture for any web-app. Taking into consideration performance necesities.",
+      "description": "Design and develop a well-structured architecture for any web app. Taking into consideration performance necessities.",
       "icon": "/services/service-performance.svg"
     },
     {
       "id": 6,
       "name": "Progressive Web Apps",
-      "description": "Develop a Progressive web apps, create website and website with native apps experiences.",
+      "description": "Develop a Progressive web app, create website and website with native app experiences.",
       "icon": "/services/service-pwa.svg"
     }
   ],
@@ -261,64 +261,81 @@
   },
   "about": {
     "title": "About",
-    "description": "Get to know a bit more about my life, my goals and dreams",
+    "description": "Get to know a bit more about my life, my goals, and dreams",
     "contents": [
       {
         "id": 1,
         "name": "My History",
-        "description": "Hi, I'm Santi, a hardworking student that wishes to become a top level programmer one day. I currently live in Monterrey, Mexico where I go to college, go out with friends and enjoy spending time with my family."
+        "description": "Hi, I'm Santi, a hardworking graduate who wishes to become a top-level programmer one day. I currently live in Monterrey, Mexico where I work as a freelancer as Web and iOS Developer, I love to go out with friends, and enjoy spending time with my family."
       },
       {
         "id": 2,
         "name": "My focus",
-        "description": "My main focus this semester is to get really good at UI/UX desing along with CSS tools in order to create the vision I have for the web pages I intend on developing. "
+        "description": "My main focus is to get good at UI/UX design along with CSS tools to create and achieve the best user experiences in my products, I want to have developments that provide value, and look and feel professional.  "
       },
       {
         "id": 3,
         "name": "Hobbies",
-        "description": "My hobbies can be divided in 3 categories: 1. FPV Drone Flying. 2. Coding/Documenting/Reaserching/Learning and 3.Sport Climmbing/Running/Basquetball and stretching. Apart from that I love travel, meet new people and spend quality time with my life long friends."
+        "description": "My hobbies can be divided into 3 categories: 1. FPV Drone Flying. 2. Coding/Documenting/Researching/Learning and 3.Sport Climbing/Running/Basketball and stretching. Apart from that I love travel, meet new people, and spend quality time with my lifelong friends."
       },
       {
         "id": 4,
         "name": "Hopes and dreams",
-        "description": "I've allways pushed myself to become the best at what I do. Hopefully one day I can freely do those things that enjoy the most: eat, travel, excersice and fly. I hope to do all of this stress free but allways looking forward for a new challenge."
+        "description": "I've always pushed myself to become the best at what I do. Hopefully one day I can freely do those things that enjoy the most: eat, travel, exercise, and fly. I hope to do all of this stress-free but always looking forward for a new challenge."
       }
     ]
   },
   "resume": {
     "title": "Resume",
-    "description": "Get to know about my work experience, my education and courses",
+    "description": "Get to know about my work experience, my education, and courses",
     "contents": [
       {
         "id": 1,
         "title": "Work Experience",
-        "contents": [
-          {
-            "id": 1,
-            "timestamp": "Oct 2019 - Mar 2020",
-            "name": "Software Engineer & Data Analyst Intern",
-            "info": "SGG Consulting",
-            "description": "Managed and created systems with the objective to record assistance and increase productivity within the business using Excel. Reports helped increment the on time delivery process from 80% to the year's objective 96% by isolating and analyzing individual departments and their working procedures. Worked remotely under pressure with multiple daily, weekly and monthly reports. Responsible for individual KPI analysis and followup of over 700 American employees.",
-            "url": "#"
-          },
-          {
-            "id": 2,
-            "timestamp": "September 2020 - Current",
-            "name": "Software Engineer Intern",
-            "info": "Be One Sports and Education ",
-            "description": "Created a CRM using platforms such as Excel, Zoho CRM and Zoho Books that has had a huge impact in the automatization and optimization of the company's data and financial administration. Used SCRUM methodology to work at a fast and effective pace. Completed my milestones before due dates to run tests and deal with the company's transition and foster doubts and further system personalization. The system reduced working administrative hours from 20 hrs a week to 7 hours a week. Lead workshops to over 50 scouts in order to help increase the company's data health and increase individual scouting performance. I was then recognized for implementing detailed analytics that helped directives consult their data 20x more efficiently. Trained as a sales Scout for the company and have gained over 100 leads for their operation, increasing company’s revenue by 8% in only 2 months.",
-            "url": "https://beonesportsandeducation.com/"
-          },
-          {
-            "id": 3,
-            "timestamp": "January 2021 - Current",
-            "name": "Systems & Operations Manager ",
-            "info": "Zanco Services",
-            "description": "Full development of a Notion System with the implementation of Notion's API. Helped to improve business operations performance by over 200%. Helped over 200 families in 3 months within my local area to disinfect their homes from Covid-19. Daily operation management of small teams driving the company's services. Developed Web Page using node js with React and some nice c++/html. ",
-            "url": "https://zanco.com.mx"
-          }
-        ]
-      },
+        {
+      "contents": [
+        {
+          "id": 1,
+          "timestamp": "Oct 2019 - Mar 2020",
+          "name": "Software Engineer & Data Analyst Intern",
+          "info": "SGG Consulting",
+          "description": "Managed and created systems to record assistance and increase productivity within the business using Excel. Reports helped increment the on-time delivery process from 80% to the year's objective 96% by isolating and analyzing individual departments and their working procedures. Worked remotely under pressure with multiple daily, weekly and monthly reports. Responsible for individual KPI analysis and followup of over 700 American employees.",
+          "url": "#"
+        },
+        {
+          "id": 3,
+          "timestamp": "January 2021 - August 2023",
+          "name": "Co-Founder and COO",
+          "info": "Zanco Online",
+          "description": "Full stack development of ScaaS (Supply Chain as a Service) platform zanco.com.mx NextJS, Zoho Creator and Zoho Books, API integrations, GitHub, Node.js, Mobile compatibility Android and iOS. Full development of a Notion System with the implementation of Notion's API. Helped to improve business operations performance by over 200%. Helped over 200 families in 3 months within my local area to disinfect their homes from Covid-19. Daily operation management of small teams driving the company's services.",
+          "url": "https://zanco.com.mx"
+        },
+        {
+          "id": 2,
+          "timestamp": "September 2020 - January 2024",
+          "name": "Software Engineer Intern",
+          "info": "Be One Sports and Education",
+          "description": "Created a CRM using platforms such as Excel, Zoho CRM and Zoho Books that has had a huge impact in the automatization and optimization of the company's data and financial administration. Used SCRUM methodology to work at a fast and effective pace. Completed my milestones before due dates to run tests and deal with the company's transition and foster doubts and further system personalization. The system reduced working administrative hours from 20 hrs a week to 7 hours a week. Lead workshops to over 50 scouts in order to help increase the company's data health and increase individual scouting performance. I was then recognized for implementing detailed analytics that helped directives consult their data 20x more efficiently. Trained as a sales Scout for the company and have gained over 100 leads for their operation, increasing company’s revenue by 8% in only 2 months.",
+          "url": "https://beonesportsandeducation.com/"
+        },
+        {
+          "id": 2,
+          "timestamp": "August 2022 - December 2022",
+          "name": "Software Engineer Intern",
+          "info": "Ureblock",
+          "description": "Developed invoice reconciliation system for JDE (Oracle ERP) vs SAT (Mexican federal government revenue service) using React.js, AzureDB, API integration, MSSM (SQL). Provided IT support and troubleshooting for the development team.",
+          "url": "http://www.ureblock.com.mx/empresa.html"
+        },
+        {
+          "id": 1,
+          "timestamp": "August 2023 - June 2024",
+          "name": "Lead Designer & Project Manager",
+          "info": "Lyrica - Apple Developer Academy",
+          "description": "Led the project as PM and Lead Designer, utilizing Figma and prototyping tools. Developed an app to assist songwriters in inspiration and repertoire organization using SwiftUI / UIKit, MVVM pattern. Integrated OpenAI API, Firebase, and Apple/Google authentication. Deployed on TestFlight with over 500 users in the first month.",
+          "url": "https://lyrica-brown.vercel.app/"
+        }
+      ]
+    },
       {
         "id": 2,
         "title": "Completed Courses",
@@ -346,6 +363,14 @@
             "info": "Coursera",
             "description": "w/Neil Rhodes",
             "url": "https://www.coursera.org/specializations/data-structures-algorithms?"
+          },
+          {
+            "id": 4,
+            "timestamp": "April 2024",
+            "name": "Apple Search Ads Certificate",
+            "info": "Apple",
+            "description": "w/Apple",
+            "url": ""
           }
         ]
       },
@@ -353,27 +378,37 @@
         "id": 3,
         "title": "Educational Level",
         "contents": [
+
           {
             "id": 1,
-            "timestamp": "2019 - Present",
+            "timestamp": "2023 - 2024",
+            "name": "Apple Developer Academy, Naples Italy",
+            "info": "iOS Mobile Developer and Designer",
+            "description": "Focused on Swift Data, accessibility & storytelling to enhance an app experience and presentation. Developed over 3 apps on Test Flight",
+            "url": "https://www.developeracademy.unina.it/en/about/"
+          },
+          
+          {
+            "id": 2,
+            "timestamp": "2019 - 2023",
             "name": "Tecnologico de Monterrey, Campus Monterrey",
             "info": "College",
-            "description": "6th Semester | Studying at Tec de Monterrey in Computer Science and Technology Engineering (ITC), awarded leadership scholarship",
+            "description": "Studied and Graduated @ Tec de Monterrey in Computer Science and Technology Engineering (ITC), awarded leadership scholarship. 4.0/4.0 GPA",
             "url": "https://tec.mx/en/computer-science-and-information-technologies/bs-in-computer-science-and-technology"
           },
           {
-            "id": 2,
+            "id": 3,
             "timestamp": "2016-2019",
             "name": "Tec de Monterrey, Highschool CVA",
             "info": "Private High School",
-            "description": "Graduated as best of my class, honors student in the IB program, 4.0 GPA, student body president, Co-Founder of multiple high impact social service groups aiming to maximize self-growth and encouragement in rural communities. Leadership medal awarded to only 5% of campus students within the leadership program. ",
+            "description": "Graduated as best of my class, an honors student in the IB program, 4.0 GPA, student body president, Co-Founder of multiple high-impact social service groups aiming to maximize self-growth and encouragement in rural communities. Leadership medal awarded to only 5% of campus students within the leadership program. ",
             "url": "https://tec.mx/en/discoverprepatec"
           },
           {
-            "id": 3,
+            "id": 4,
             "timestamp": "2018",
             "name": "VGC International College",
-            "info": "Buisness managment exchange course in Vancouver, Canada",
+            "info": "Business management exchange course in Vancouver, Canada",
             "description": "VGC is an international college located in the heart of downtown Vancouver, Canada. VGC offers English courses and International Business programs.",
             "url": "https://vgc.ca/"
           }
